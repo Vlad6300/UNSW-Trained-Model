@@ -1,9 +1,9 @@
 # UNSW-Trained-Model
 
-The drl.tar file is a Docker container that provieds a working environment for the sample code.
+The drl.tar file is a Docker container that provides a working environment, the code and the data.
 
 ## How to use
-After installing and running the docker container, you will find a python script labeled sample_code_main.py. 
+After installing and running the docker container, you will find a python script labeled sample_code_main.py in the container. 
 Run this script with any of the following options:
 
 ![image](https://user-images.githubusercontent.com/29517124/118824733-c26cab80-b8c2-11eb-976e-af7bdf7f3a61.png)
